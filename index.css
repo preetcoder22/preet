@@ -1,0 +1,49 @@
+*{
+
+    margin: 0%;
+    padding: 0%;
+}
+
+   
+.carousel-item {
+height: 569px;
+
+}
+.carousel-inner{
+ justify-content: center;  
+}
+
+.carousel-caption h2{
+   color: rgb(243, 9, 9);
+   scrollbar-highlight-color: rgb(190, 243, 0);
+   margin-top: 40px;
+}
+.carousel-caption p{
+    color: rgb(13, 17, 255);;
+}
+.row{
+    border-color: black;
+}
+.featurette-heading{
+    margin-right: 55px;
+}
+.carousel-inner{
+    opacity: 40;
+    transition: 0.6s;
+
+}
+ .btn{ 
+   
+   color: black;
+   
+}
+.btn button{
+    background-color:skyblue;
+    border: .1px solid rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+       
+     
+     padding: 5px 10px;
+     text-transform: capitalize;
+  
+}
